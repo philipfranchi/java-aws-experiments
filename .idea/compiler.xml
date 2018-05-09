@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="aws-experiment_main" target="1.8" />
+      <module name="aws-experiment_test" target="1.8" />
+      <module name="cf-config_main" target="1.8" />
+      <module name="cf-config_test" target="1.8" />
+      <module name="config_main" target="1.8" />
+      <module name="config_test" target="1.8" />
+      <module name="lambda_main" target="1.8" />
+      <module name="lambda_test" target="1.8" />
+      <module name="s3-config_main" target="1.8" />
+      <module name="s3-config_test" target="1.8" />
+      <module name="spring-property-loading_main" target="1.8" />
+      <module name="spring-property-loading_test" target="1.8" />
+      <module name="study-cards_main" target="1.8" />
+      <module name="study-cards_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

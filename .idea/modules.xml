@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws-experiment.iml" filepath="$PROJECT_DIR$/.idea/modules/aws-experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws-experiment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aws-experiment_main.iml" group="aws-experiment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws-experiment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aws-experiment_test.iml" group="aws-experiment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cf-config.iml" filepath="$PROJECT_DIR$/.idea/modules/cf-config.iml" group="cf-config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lambda.iml" filepath="$PROJECT_DIR$/.idea/modules/lambda.iml" group="lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/s3-config/s3-config.iml" filepath="$PROJECT_DIR$/.idea/modules/s3-config/s3-config.iml" group="s3-config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-property-loading.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-property-loading.iml" group="spring-property-loading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-property-loading/spring-property-loading_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-property-loading/spring-property-loading_main.iml" group="spring-property-loading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-property-loading/spring-property-loading_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-property-loading/spring-property-loading_test.iml" group="spring-property-loading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-cards.iml" filepath="$PROJECT_DIR$/.idea/modules/study-cards.iml" group="study-cards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-cards/study-cards_main.iml" filepath="$PROJECT_DIR$/.idea/modules/study-cards/study-cards_main.iml" group="study-cards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-cards/study-cards_test.iml" filepath="$PROJECT_DIR$/.idea/modules/study-cards/study-cards_test.iml" group="study-cards" />
+    </modules>
+  </component>
+</project>

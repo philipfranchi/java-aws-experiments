@@ -1,0 +1,19 @@
+group 'com.philipfranchi'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'application'
+
+sourceCompatibility = 1.8
+
+mainClassName='com.philipfranchi.lambda.MainApp'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter:1.5.3.RELEASE'
+    compile project(':cf-config')
+    //compile project(':s3-config')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
